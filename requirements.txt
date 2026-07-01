@@ -1,5 +1,0 @@
-flask==3.0.3
-opencv-python-headless==4.10.0.84
-numpy==1.26.4
-psycopg2-binary==2.9.9
-requests==2.32.3
